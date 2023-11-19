@@ -6,10 +6,10 @@
 
 | OS 		| STACK |
 | ------|		 ------ |
-|🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻|🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻🧑🏼‍💻
-|s
-|s
-|s
+| work 🧑🏼‍💻| work🧑🏼‍💻
+|work 🧑🏼‍💻| work 🧑🏼‍💻
+|work 🧑🏼‍💻| work 🧑🏼‍💻
+|work 🧑🏼‍💻| work 🧑🏼‍💻
 
 <!---
 QQQ-RRR/QQQ-RRR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
